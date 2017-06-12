@@ -1,1 +1,0 @@
-# Fsm_Template_Plugin
